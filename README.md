@@ -1,5 +1,6 @@
 # AmphoraTest
 Create/Update/Delete
+
 **Create Receipt Test Case:**
 1. Click on "New Receipt" button
 2. Click on the "Date" field and edit the date "8/23/2003"
