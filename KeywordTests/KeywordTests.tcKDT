@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="CreateReciept" key="{84D44658-C936-45C4-95CE-9D73F8E76AB7}" path="CreateReciept.tcKDTest" />
+		<child name="UpdateReciept" key="{4FBC5291-0289-4038-9D35-3D94AA18B754}" path="UpdateReciept.tcKDTest" />
+		<child name="DeleteReciept" key="{5901C315-12D3-4CA2-8999-5BFED29019E7}" path="DeleteReciept.tcKDTest" />
+	</children>
+</Root>

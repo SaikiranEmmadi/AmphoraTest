@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="DeleteReciept" key="{90639675-B65A-4467-B6E1-794856452B04}" path="DeleteReciept.js" />
+		<child name="CreateReciept" key="{645D9E6F-C4ED-4870-86F3-C9BB2C235D12}" path="CreateReciept.js" />
+		<child name="UpdateReciept" key="{E97B18B8-2128-4834-8E2A-18A5C7AC32DF}" path="UpdateReciept.js" />
+	</children>
+</Root>

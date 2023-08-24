@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{CFAC48C1-B0F9-4027-89F7-1DC03546DB75}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{D147A6DA-E8B7-4C18-B7EC-0F127A2343CD}">
+			<config nodeName="ExpenseIT" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\saemma\OneDrive - Planon\Documents\TestComplete 15 Projects\AmphoraTest" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\saemma\OneDrive - Planon\Documents\TestComplete 15 Projects\AmphoraTest" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\saemma\OneDrive - Planon\Documents\TestComplete 15 Projects\AmphoraTest" />
+					<param name="Simple" fileName="ExpenseIT.exe" filePath="C:\Program Files (x86)\ExpenseIT\" parameters="" workFolder="C:\Users\saemma\OneDrive - Planon\Documents\TestComplete 15 Projects\AmphoraTest" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

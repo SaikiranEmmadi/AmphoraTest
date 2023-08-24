@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{5901C315-12D3-4CA2-8999-5BFED29019E7}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="45161.5123148148" objectName="Aliases.ExpenseIT.wndAfx.AfxMDIFrame70s.ListView" objectLeft="10" objectTop="117" objectRight="541" objectBottom="204" clickPointX="61" clickPointY="155" imageFileName="tcvi63060081268400.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45161.5125694444" objectName="Aliases.ExpenseIT.wndAfx.toolbar" objectLeft="8" objectTop="51" objectRight="543" objectBottom="115" clickPointX="148" clickPointY="83" imageFileName="tcvi63062317168401.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45161.5132407407" objectName="Aliases.ExpenseIT.wndAfx.AfxMDIFrame70s.ListView" objectLeft="10" objectTop="117" objectRight="541" objectBottom="204" clickPointX="34" clickPointY="138" imageFileName="tcvi63068096868400.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
